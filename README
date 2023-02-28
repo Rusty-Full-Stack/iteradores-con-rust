@@ -1,0 +1,9 @@
+# Ejemplos de Iteradores Con Rust
+
+Para compilar cada programa puedes hacerlo con:
+
+rustc <nombre del archivo>
+
+Para ejecutarlo luego de su compilacion
+
+./<nombre del archivo ejecutable>
